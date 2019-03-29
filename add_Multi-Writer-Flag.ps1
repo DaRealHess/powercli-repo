@@ -1,4 +1,4 @@
-$vms = Get-VM euphrat-0*
+$vms = Get-VM jordan-0*
 
 foreach ($vm in $vms) {
 
